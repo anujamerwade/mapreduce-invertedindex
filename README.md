@@ -1,0 +1,1 @@
+This repo consists of a mapreduce program implemented in Java for building an Inverted Index. The input is a directory consisting of .txt files of books from famous authors. The output generated is an inverted index in the format `word | [list of books the word appears in]`. The input files have been tokenized, lemmatized and punctuation marks have been removed.
